@@ -10,6 +10,6 @@
 
 * A release corrente da API Pix pode ser encontrada neste __[link](https://github.com/bacen/pix-api/releases/tag/2.0.0)__.
 
-
+ 
 
 
